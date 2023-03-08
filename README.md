@@ -1,1 +1,1 @@
-# node-typescript-JWT-JOI-crud-app
+# node-typescript-jwt-joi-crud-app
